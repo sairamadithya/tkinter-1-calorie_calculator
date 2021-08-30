@@ -1,2 +1,4 @@
 # tkinter-1-calorie_calculator
-this is a tkinter application which creates a graphic user interface useful for calculating calories for individual activities and then showing the entire result.
+this project uses simple python program to build a user-interface which can calculate the caloies burnt in physical activities using tkinter.
+the first code is the logic behind the calorie calculation.
+the second code is the tkinter implementation with labels, entries and buttons performing desired functions using the previous logic.
